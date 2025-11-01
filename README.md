@@ -20,10 +20,14 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 
-**Trend Analysis Dashboard**
+
+
+****Trend Analysis Dashboard****
 
 
 <img width="626" height="344" alt="Dashoard(Customer-trends-analysis)" src="https://github.com/user-attachments/assets/0036a036-b7ac-4e65-a03c-bb8573b6431a" />
+
+
 
 **🌟 About Me**
 
